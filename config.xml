@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mySqlRootPassword></mySqlRootPassword>
+<dataBaseName>db</dataBaseName>
+<dataBaseUserName>us</dataBaseUserName>
+<dataBasePassword>pw</dataBasePassword>
+<wordpressUrl>test.com</wordpressUrl>
